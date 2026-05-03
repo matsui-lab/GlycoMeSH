@@ -1,0 +1,11 @@
+torch==2.5.1
+numpy
+pandas
+scikit-learn==1.7.0
+scipy==1.15.3
+optuna==4.7.0
+transformers
+tqdm
+matplotlib
+seaborn
+pyyaml
