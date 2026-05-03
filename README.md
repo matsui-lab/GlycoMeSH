@@ -35,8 +35,7 @@ c. Glycomics enrichment analysis enabled by the ontology
 ├── enrichment/             # clusterProfiler-based glycan enrichment example
 ├── shiny/                  # R Shiny web tool for Glycan Ontology enrichment
 ├── requirements.txt        # Python dependencies
-├── LICENSE                 # Project license
-└── .zenodo.json            # Zenodo deposit metadata
+└── LICENSE                 # Project license
 ```
 
 The scripts assume a top-level `data/` directory containing raw inputs and intermediate outputs. Raw input files are not bundled with this repository and should be obtained from the original sources listed below.
@@ -204,10 +203,8 @@ Directory: `train_cl/`
 Main scripts include:
 
 - `hp_n_cv_rand_search_1st.py`
-- `optuna_sapbert_stablerep_holdout_test_cv5_wide.py`
 - `optuna_sapbert_stablerep_holdout.py`
 - `train_cross_modal_stablerep_normal_cv.py`
-- `train_cross_modal_stablerep_predefine_folds.py`
 - `train_cross_modal_stablerep_full_train.py`
 - `infer_all_topk_from_final_model.py`
 - `infer_all_topk_from_optuna_2nd_Model.py`
