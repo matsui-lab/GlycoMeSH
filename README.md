@@ -315,18 +315,10 @@ GPU is recommended for training. Inference and enrichment analysis can be run on
 
 ---
 
-## License
-
-This project is licensed under the Apache License 2.0.
-
-> Note: please make sure that the repository `LICENSE` file is also updated to Apache License 2.0 if it currently contains a different license.
-
----
-
 ## Citation
 
 Citation information will be provided after publication.
 
 If you use this code before formal publication, please cite the accompanying manuscript:
 
-**Systematic functional annotation and enrichment analysis of glycans using multimodal contrastive learning.**
+**GlycoMeSH: linking glycan structures to biomedical context for systematic enrichment analysis**
