@@ -1,7 +1,7 @@
-# GlycoMeSH-BERT and Glycan Ontology
+# GlycoMeSH
 
 Source code accompanying the manuscript  
-**"Systematic functional annotation and enrichment analysis of glycans using multimodal contrastive learning."**
+**"GlycoMeSH: linking glycan structures to biomedical context for systematic enrichment analysis"**
 
 **GlycoMeSH-BERT** is a deep learning framework that links glycan structures with biomedical knowledge represented by Medical Subject Headings (**MeSH**) terms using multimodal contrastive representation learning.
 
